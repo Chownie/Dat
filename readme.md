@@ -2,6 +2,7 @@
 
 ##DatServer
 A simplistic game server written in Go.
+
 On the TODO:
 
 * Save/Load player states from disk
@@ -10,6 +11,7 @@ On the TODO:
 
 ##DatClient
 A crude game client written in Python, using Pygame.
+
 On the TODO:
 
 * Load a player sprite from local file
