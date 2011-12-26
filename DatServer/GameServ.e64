@@ -1,0 +1,11 @@
+# GameServ project file
+
+TARGET = GameServ
+DESTDIR =
+
+GCOPT =
+GLOPT =
+
+GOFILES = \
+	main.go \
+	parsing.go \
