@@ -9,3 +9,4 @@ GLOPT =
 GOFILES = \
 	main.go \
 	parsing.go \
+	controller.go \
